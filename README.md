@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Jeffrey's Github Stats](https://github-readme-stats.vercel.app/api?username=jmillan736&count_private=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmillan736&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
