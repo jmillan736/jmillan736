@@ -15,9 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<img height=200 align="center" src="https://github-readme-stats-git-master-jmillan736s-projects.vercel.app/api?username=jmillan736&count-private=true" />
-
-
-<img height=200 align="center" src="https://github-readme-stats-git-master-jmillan736s-projects.vercel.app/api/top-langs?username=jmillan736&count-private=true&layout=compact&card_width=320" />
-
